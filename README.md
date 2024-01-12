@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋-->
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ayoub-hamdoun/" target="_blank"> Ayoub </a> </h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&random=false&width=435&lines=Software+engineer+student;Full+stack+devlopper" alt="Typing SVG" />
+<!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&random=false&width=435&lines=Software+engineer+student;Full+stack+devlopper" alt="Typing SVG" /> -->
 </h3>
 <!--
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/ayhamdou" alt="ayhamdou's 42 stats" /></a>
