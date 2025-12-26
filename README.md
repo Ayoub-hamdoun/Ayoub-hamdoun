@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋-->
-<img src="./assets/tumblr_o8ol0qfp3d1r4gsiio1_1280.gif" alt="banner">
+<img src="./assets/header.gif" alt="banner">
 
 <div align="center">
     <h1 align="left">👋 Hi, I'm <a href="https://www.linkedin.com/in/ayoub-hamdoun/" target="_blank"> Ayoub </a> </h1>
